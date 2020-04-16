@@ -1,3 +1,7 @@
+<a href="https://colab.research.google.com/github/fmottes/unito-neural-networks/blob/master">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width:250px;"/>
+</a>
+
 # Neural Networks Course (MFN0824)
 
 This repository contains the Jupyter notebooks and other materials used for the Neural Networks course, held at the Physics Department of the University of Turin. You can find more details on the [institutional page of the course](https://fisica.campusnet.unito.it/do/corsi.pl/Show?_id=6e6f). More notebooks and materials will be added along the course.
