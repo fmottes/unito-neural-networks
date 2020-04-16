@@ -1,10 +1,25 @@
+<p>
 <a href="https://colab.research.google.com/github/fmottes/unito-neural-networks/blob/master">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width:250px;"/>
+  </a>
+
+<a href="https://nbviewer.jupyter.org/github/fmottes/unito-neural-networks/blob/master/index.ipynb">
+  <img src="https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg" alt="Open In nbviewer" style="width:250px;"/>
 </a>
+</p>
 
 # Neural Networks Course (MFN0824)
 
 This repository contains the Jupyter notebooks and other materials used for the Neural Networks course, held at the Physics Department of the University of Turin. You can find more details on the [institutional page of the course](https://fisica.campusnet.unito.it/do/corsi.pl/Show?_id=6e6f). More notebooks and materials will be added along the course.
+
+---
+
+## Looking at the Notebooks
+For some reason, github does not render the notebooks in the correct way. If you just want to take a look at the rendered notebooks without running the code, please use the [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) service. You can access the notebooks in thi directory directly by clicking on the badge at the top of the page or here:
+<a href="https://nbviewer.jupyter.org/github/fmottes/unito-neural-networks/blob/master/index.ipynb">
+  <img src="https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg" alt="Open In nbviewer" style="width:250px;"/>
+</a>.
+
 
 ---
 
