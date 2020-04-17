@@ -12,6 +12,8 @@
 
 This repository contains the Jupyter notebooks and other materials used for the Neural Networks course, held at the Physics Department of the University of Turin. You can find more details on the [institutional page of the course](https://fisica.campusnet.unito.it/do/corsi.pl/Show?_id=6e6f). More notebooks and materials will be added along the course.
 
+**NOTE:** The "appendix" notebooks, beginning with capital letters, are meant to be a review of basic concepts that will be used during the course. They should therefore be completed _before_ looking at the numbered notebooks, which contain the course material instead. 
+
 ---
 
 ## Looking at the Notebooks
