@@ -38,7 +38,7 @@ You can load a copy of the entire directory in colab by clicking on the followin
 A similar badge will be present in each notebook and allows you to open a copy of the the notebook directly in Colab. Note that, in order to retain your work, you will need to **save** the notebooks before you close them.
 
 
-* **Local Jupyter Notebooks**
+* **Jupyter Notebooks on a Local Machine**
 
 You can also run the notebooks by cloning this github repository on your local machine or by downloading it in the compressed version. In this case, in order to run the notebooks it is advised that you download and install the latest [Anaconda Distribution](https://www.anaconda.com/distribution/) which will provide you with a lot of useful packages, including Jupyter notebooks, Numpy and Matplotlib. You will have to install Tensorflow2 manually after installing Anaconda, in order to do so just open a terminal and type:
 
