@@ -4,7 +4,7 @@
   </a>
 
 <a href="https://nbviewer.jupyter.org/github/fmottes/unito-neural-networks/">
-  <img src="https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg" alt="Open In nbviewer" style="width:250px;"/>
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Open In nbviewer" style="width:250px;"/>
 </a>
 </p>
 
@@ -19,7 +19,7 @@ This repository contains the Jupyter notebooks and other materials used for the 
 ## Looking at the Notebooks
 For some reason, github does not render the notebooks in the correct way. If you just want to take a look at the rendered notebooks without running the code, please use the [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) service. You can access the notebooks in this directory directly by clicking on the badge at the top of the page or here:
 <a href="https://nbviewer.jupyter.org/github/fmottes/unito-neural-networks/">
-  <img src="https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg" alt="Open In nbviewer" style="width:250px;"/>
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Open In nbviewer" style="width:250px;"/>
 </a>.
 
 
